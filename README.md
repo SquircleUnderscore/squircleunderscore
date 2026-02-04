@@ -5,11 +5,11 @@ I moved my repos to my Forgejo server because fuck Microsoft 🥰
 </p>
 
 <p align="center">
-<a href="https://git.squircle.computer/">
-https://git.squircle.computer/
-</a>
+All repositories here are now private.
 </p>
 
 <p align="center">
-All repositories here are now private.
+<a href="https://git.squircle.computer/">
+https://git.squircle.computer/
+</a>
 </p>
