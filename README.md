@@ -6,7 +6,7 @@ I moved my repos to my Forgejo server because fuck Microsoft 🥰
 
 <p align="center">
 <a href="https://git.squircle.computer/">
-https://git.squircle.computer/squircle
+https://git.squircle.computer/
 </a>
 </p>
 
