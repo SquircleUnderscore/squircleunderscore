@@ -6,7 +6,7 @@ All repositories here are now private.
 </p>
 
 <p align="center">
-<a href="https://git.squircle.computer/">
+<a href="https://git.squircle.computer/squircle?tab=overview">
 https://git.squircle.computer/
 </a>
 </p>
