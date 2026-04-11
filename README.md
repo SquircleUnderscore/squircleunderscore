@@ -2,7 +2,7 @@
 
 <p align="center">
 I moved my repos to my Forgejo server because fuck Microsoft 🥰 <br>
-All repositories have been deleted.
+I use this account only for PRs and issues.
 </p>
 
 <p align="center">
